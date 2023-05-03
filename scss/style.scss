@@ -27,6 +27,9 @@ a {
 .showcase {
   @include set-background($primary-color);
   height: 740px;
+  //   clip-path: polygon(21% 0, 95% 0, 71% 100%, 0% 100%);
+  //   clip-path: polygon(0 0, 100% 0, 79% 100%, 23% 100%);
+  clip-path: polygon(6% 0, 95% 0, 79% 100%, 23% 100%);
 
   & .showcase__nav {
     display: flex;
@@ -46,6 +49,7 @@ a {
 
     li {
       padding: 15px;
+      font-weight: bolder;
     }
 
     a {
@@ -62,14 +66,14 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 30px;
+    margin-top: 70px;
 
     iframe {
       width: 100%;
     }
 
     h1 {
-      font-size: 42px;
+      font-size: 38px;
       font-style: italic;
       line-height: 1.2;
       padding: 20px;

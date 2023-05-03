@@ -2,7 +2,7 @@
 @media (max-width: 700px) {
   .showcase {
     height: 800px;
-
+    clip-path: none;
     & .showcase__content {
       text-align: center;
 
@@ -10,5 +10,11 @@
         width: 80%;
       }
     }
+  }
+}
+
+@media (max-width: 900px) {
+  .showcase {
+    clip-path: none;
   }
 }
