@@ -1,7 +1,5 @@
 # Build a Chatbot
 
-![HeniLogo](./src/assets/HeniLogo.png)
-
 ## Prototype chatbot that answers FAQs
 
 ---
@@ -69,7 +67,7 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 ### **Acknowledgments**
 
-- Turners Car Auctions FAQs Online Auctions
+- Turners Car Auctions FAQs Online Auctions [Turners](https://www.turners.co.nz/FAQs-Cars/ "Turners")
 - Landbot, Conversational Design [Landbot](https://landbot.io/blog/guide-to-conversational-design#section-6 "Landbot")
 - Hillary Black, Conversational Design and script template [Medium](https://medium.com/swlh/what-is-conversation-design-and-how-to-design-your-chatbot-3754f04ab1e7 "Medium")
 - Marutitech, step by step guide to building a chatbot via Dialogflow [Marutitech](https://marutitech.com/build-a-chatbot-using-dialogflow/ "Marutitech")
