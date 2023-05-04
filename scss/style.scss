@@ -27,9 +27,7 @@ a {
 .showcase {
   @include set-background($primary-color);
   height: 740px;
-  //   clip-path: polygon(21% 0, 95% 0, 71% 100%, 0% 100%);
-  //   clip-path: polygon(0 0, 100% 0, 79% 100%, 23% 100%);
-  clip-path: polygon(6% 0, 95% 0, 79% 100%, 23% 100%);
+  clip-path: polygon(0 0, 100% 0, 79% 100%, 23% 100%);
 
   & .showcase__nav {
     display: flex;

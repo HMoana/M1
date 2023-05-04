@@ -105,7 +105,7 @@ a {
   background-color: #0e6cff;
   color: #fff;
   height: 740px;
-  clip-path: polygon(6% 0, 95% 0, 79% 100%, 23% 100%);
+  clip-path: polygon(0 0, 100% 0, 79% 100%, 23% 100%);
 }
 .showcase .showcase__nav {
   display: flex;
@@ -165,11 +165,6 @@ a {
   }
   .showcase .showcase__content iframe {
     width: 80%;
-  }
-}
-@media (max-width: 900px) {
-  .showcase {
-    clip-path: none;
   }
 }
 
