@@ -33,9 +33,29 @@ The purpose of this project is to use conversational design theory and Dialogflo
 
 ### _Prerequisites -_
 
-### _The software needed to install -_
+#### _The software needed to install -_
 
-- npm i node-sass
+- Node Sass
+
+  ```sh
+  - npm i node-sass
+  ```
+
+---
+
+### Installation
+
+1. Clone the repo
+
+   ```sh
+   git clone https://github.com/HMoana/M1.git
+   ```
+
+2. Install NPM packages
+
+   ```sh
+   npm install
+   ```
 
 ---
 
@@ -48,7 +68,7 @@ The purpose of this project is to use conversational design theory and Dialogflo
 
 ### **Future improvements:**
 
-- Improve Dialogflow intents and integrate more entities
+- Improve Dialogflow intents, integrate more entities & payloads
 - Deploy bot via api and host via Google Cloud
 
 ---
