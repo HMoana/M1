@@ -38,7 +38,7 @@ The purpose of this project is to use conversational design theory and Dialogflo
 - Node Sass
 
   ```sh
-  - npm i node-sass
+  - npm install node-sass
   ```
 
 ---
@@ -87,11 +87,11 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 ### **Acknowledgments**
 
-- Turners Car Auctions FAQs Online Auctions [Turners](https://www.turners.co.nz/FAQs-Cars/ "Turners")
-- Landbot, Conversational Design [Landbot](https://landbot.io/blog/guide-to-conversational-design#section-6 "Landbot")
-- Hillary Black, Conversational Design and script template [Medium](https://medium.com/swlh/what-is-conversation-design-and-how-to-design-your-chatbot-3754f04ab1e7 "Medium")
-- Marutitech, step by step guide to building a chatbot via Dialogflow [Marutitech](https://marutitech.com/build-a-chatbot-using-dialogflow/ "Marutitech")
-- Google Tech Cloud, chatbot with Dialogflow [YouTube](https://youtu.be/kF33Ime0a2k "YouTube")
-- Dialogflow, intents [YouTube](https://youtu.be/9aHusGxntPw "YouTube")
-- Chatimize, intents and entities [YouTube](https://youtu.be/s2eW4u-U1jY "YouTube")
-- Traverys Media, SASS Crash Course [YouTube](https://youtu.be/nu5mdN2JIwM "YouTube")
+- [Turners](https://www.turners.co.nz/FAQs-Cars/ "Turners")
+- [Landbot](https://landbot.io/blog/guide-to-conversational-design#section-6 "Landbot")
+- [Medium](https://medium.com/swlh/what-is-conversation-design-and-how-to-design-your-chatbot-3754f04ab1e7 "Medium")
+- [Marutitech](https://marutitech.com/build-a-chatbot-using-dialogflow/ "Marutitech")
+- [Google Tech Cloud](https://youtu.be/kF33Ime0a2k "Google Tech Cloud")
+- [Dialogflow](https://youtu.be/9aHusGxntPw "Dialogflow")
+- [Chatimize](https://youtu.be/s2eW4u-U1jY "Chatimize")
+- [Traversy Media](https://youtu.be/nu5mdN2JIwM "Traversy Media")
